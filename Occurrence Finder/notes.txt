@@ -1,0 +1,5 @@
+1. Prepare a txt file and paste your paragraph there
+2. run the script
+3. enter the file path
+
+It will give you the most occurring word in the paragraph.
