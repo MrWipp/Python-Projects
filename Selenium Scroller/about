@@ -1,0 +1,6 @@
+A small part of a project I worked on, a simple scroller bot using selenium and chromedriver
+
+pip install chromedriver
+pip install selenium
+
+chromedriver must be compatible with your current chrome browser
