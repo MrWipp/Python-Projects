@@ -1,1 +1,1 @@
-Arabic Countdown Timer Made in 2 days using tkinter
+Countdown Timer Made in 2 days using tkinter
